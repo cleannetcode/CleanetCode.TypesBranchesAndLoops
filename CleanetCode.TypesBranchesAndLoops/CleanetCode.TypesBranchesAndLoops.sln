@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanetCode.TypesBranchesAn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanetCode.GuessingNumberGame", "CleanetCode.GuessingNumberGame\CleanetCode.GuessingNumberGame.csproj", "{2EB692B9-9D68-47F9-8F2E-7D2FE05C4012}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanetCode.ToDoList", "CleanetCode.ToDoList\CleanetCode.ToDoList.csproj", "{458CA072-D5A6-42B3-B739-61B66488DEDD}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{2EB692B9-9D68-47F9-8F2E-7D2FE05C4012}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB692B9-9D68-47F9-8F2E-7D2FE05C4012}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB692B9-9D68-47F9-8F2E-7D2FE05C4012}.Release|Any CPU.Build.0 = Release|Any CPU
-		{458CA072-D5A6-42B3-B739-61B66488DEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{458CA072-D5A6-42B3-B739-61B66488DEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{458CA072-D5A6-42B3-B739-61B66488DEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{458CA072-D5A6-42B3-B739-61B66488DEDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
